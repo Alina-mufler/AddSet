@@ -26,6 +26,7 @@ public class AddSet<T> extends AbstractSet<T> implements NavigableSet<T> {
         this.comparator = comparator;
     }
 
+
     /**
      * Constructor - creating a new object with new values.
      * @param comparator - comparator.
